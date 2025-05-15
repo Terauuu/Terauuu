@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Terauuu
+- 👋 Hi, I’m Linglu
 - 👀 I’m interested in statistics, data analysis, and utilizing data to drive insights and solve real-world problems.
 - 🌱 I’m currently majoring in Statistics and Data Science, gaining a strong foundation in quantitative methods, programming, and large datasets.
 - 💞️ I’m looking to collaborate on ...
